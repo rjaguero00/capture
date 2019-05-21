@@ -7,7 +7,7 @@
 .navbar-brand {
     font-family: 'Permanent Marker', cursive;
     text-transform: uppercase;
-    background: linear-gradient(to right, #20e0b4 33.33%, #330867 68.33%, #ea054f 33.33%);
+    background: linear-gradient(to right, #20e0b4 9.33%, #ea054f 68.33%, #0cabc0 33.33%);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 }
@@ -27,7 +27,7 @@
 } 
 
 #text-2 {
-    color:  #330867;
+    color:  #0cabc0;
 }
 
 #text-3 {
