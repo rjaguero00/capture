@@ -1,8 +1,8 @@
 /* home page */
 
-#main-nav {
+/* #main-nav {
     background: transparent;
-}
+} */
 
 .navbar-brand {
     font-family: 'Permanent Marker', cursive;
@@ -22,15 +22,15 @@
     font-size: 20px;
 }
 
-.text-1 {
+#text-1 {
     color: #20e0b4;
 } 
 
-.text-2 {
+#text-2 {
     color:  #330867;
 }
 
-.text-3 {
+#text-3 {
     color: #ea054f; 
 }
 
