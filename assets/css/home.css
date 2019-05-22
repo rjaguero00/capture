@@ -17,6 +17,10 @@
     color: #eee; 
 }
 
+#text-4 {
+    color: #eee; 
+}
+
 
 
 *, *:before, *:after {
@@ -98,7 +102,8 @@
     font-size: 2em;
     letter-spacing: 4px;
     overflow: hidden;
-    background: linear-gradient(90deg, #20e0b4 9.33%, #ea054f 68.33%, #0cabc0 33.33%);
+    background: linear-gradient(90deg, red, #eee, black);
+    /* background: linear-gradient(90deg, #20e0b4 9.33%, #ea054f 68.33%, #0cabc0 33.33%); */
     background-repeat: no-repeat;
     background-size: 80%;
     animation: animate 3s linear infinite;
