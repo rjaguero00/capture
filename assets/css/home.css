@@ -126,3 +126,43 @@
   .section {
     padding: 100px 0;
 }
+
+#para {
+  padding-top: 55px;
+  padding-bottom: 55px;
+}
+
+/* .col-md-3{
+	background:url("http://gretchenrubin.com/wp-content/uploads/2016/04/moviesseats.jpg") no-repeat center center;
+background-size:cover;
+	height:300px;
+	border:1px solid white;
+} */
+
+#photo1 {
+  background:url("../img/photo1.jpg") no-repeat center center;
+  background-size:cover;
+    height:400px;
+    border:20px solid white;
+}
+
+#photo2 {
+  background:url("../img/photo2.jpg") no-repeat center center;
+  background-size:cover;
+    height:400px;
+    border:20px solid white;
+}
+
+#photo3 {
+  background:url("../img/photo6.jpg") no-repeat center center;
+  background-size:cover;
+    height:400px;
+    border:20px solid white;
+}
+
+#photo4 {
+  background:url("../img/photo4.jpg") no-repeat center center;
+  background-size:cover;
+    height:400px;
+    border:20px solid white;
+}
