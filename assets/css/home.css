@@ -21,7 +21,9 @@
     color: #eee; 
 }
 
-
+#text-5 {
+  color: #eee; 
+}
 
 *, *:before, *:after {
     box-sizing: inherit;
@@ -119,3 +121,8 @@
       background-position: 500%;
     }
   }
+
+
+  .section {
+    padding: 100px 0;
+}
