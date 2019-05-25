@@ -179,17 +179,28 @@ background-size:cover;
   color: #fff; 
 }
 
-#home-heading h1 {
-  padding-top: 50px;
-  padding-bottom: 70px;
+
+#gallery {
+  position: relative;
+  min-height: 200px;
+  background: black;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  text-align: center;
+  color: #fff; 
+}
+.insta {
+  padding-top: 40px;
+}
+.insta .item {
+  padding-bottom: 20px;
 }
 
-.dark-overlay {
-  position: absolute;
-  top: 0;
-  left: 0;
+.insta .item img {
+  position: relative;
   width: 100%;
-  height: 100%;
-  background: rgba(0,0,0, 0.7);
+  max-width: 100%;
 }
+
+
 
