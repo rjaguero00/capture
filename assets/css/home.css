@@ -198,6 +198,7 @@ background-size:cover;
 
 .insta .item img {
   position: relative;
+  height: 150px;
   width: 100%;
   max-width: 100%;
 }
