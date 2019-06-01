@@ -48,7 +48,7 @@ $("#main-nav a").on('click', function (event) {
 // Supersliders
 
 $('#slides').superslides({
-    animation: 'fade',
-    play: 5000,
-    pagination: false
+    animation: 'fade'
+    // play: 5000,
+    // pagination: false
 })
