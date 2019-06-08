@@ -328,7 +328,7 @@ background-size:cover;
 /*---------------*/
 
 figure.effect-milo {
-	background: #2e5d5a;
+	background: #db5555;
 }
 
 figure.effect-milo img {
@@ -375,22 +375,14 @@ figure.effect-milo:hover p {
 	transform: translate3d(0,0,0);
 }
 
-/* body {
-	background: #2f3238;
-	color: #fff;
-	font-weight: 400;
-	font-size: 1em;
-	font-family: 'Raleway', Arial, sans-serif;
-} */
-
 a {
 	outline: none;
-	color: #3498db;
+	color: #db5555;
 	text-decoration: none;
 }
 
 a:hover, a:focus {
-	color: #528cb3;
+	color: #db5555;
 }
 
 section {
@@ -416,6 +408,9 @@ section {
 	padding-top: 0em;
 }
 
+figcaption h2 {
+  font-size: 1rem;
+}
 
 
 
