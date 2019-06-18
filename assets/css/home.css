@@ -423,4 +423,11 @@ section {
   color: #fff; 
 }
 
+.contact-p {
+  padding-bottom: 50px;
+}
 
+#main-footer {
+  background: #343a40;
+  color: #fff;
+}

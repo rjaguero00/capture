@@ -52,3 +52,6 @@ $('#slides').superslides({
     play: 5000,
     pagination: false
 })
+
+// Get the current year for the copyright
+$('#year').text(new Date().getFullYear());
