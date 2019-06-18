@@ -413,4 +413,14 @@ section {
 	padding-top: 0em;
 }
 
+.contact {
+  position: relative;
+  min-height: 200px;
+  background: black;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  text-align: center;
+  color: #fff; 
+}
+
 
